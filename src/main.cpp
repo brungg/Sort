@@ -18,7 +18,7 @@ bool isEqual(int a[], int b[]) {
 
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode(width, height), "ATTEMPT");
+    sf::RenderWindow window(sf::VideoMode(width, height), "Bubble Sort");
     for(int i = 0; i < l; i++) {
         blocks[i] = rand() % 400 + 1;
         blocksCheck[i] = blocks[i];
