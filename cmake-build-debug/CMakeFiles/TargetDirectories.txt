@@ -1,0 +1,3 @@
+C:/Users/weath/CLionProjects/SFML Test/cmake-build-debug/CMakeFiles/SFML_Test.dir
+C:/Users/weath/CLionProjects/SFML Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/weath/CLionProjects/SFML Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
